@@ -66,6 +66,7 @@ h1 span {
 
 h1:hover {
   color: #f4d04e;
+  cursor: pointer;
 }
 
 p:last-of-type {
@@ -81,7 +82,6 @@ p:last-of-type {
 
   h3 {
     text-transform: capitalize;
-    cursor: pointer;
   }
 }
 
