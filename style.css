@@ -84,12 +84,3 @@ p:last-of-type {
     text-transform: capitalize;
   }
 }
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-
-.attribution a {
-  color: hsl(228, 45%, 44%);
-}
