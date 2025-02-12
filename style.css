@@ -64,6 +64,10 @@ h1 span {
   text-transform: uppercase;
 }
 
+h1:hover {
+  color: #f4d04e;
+}
+
 p:last-of-type {
   color: #6b6b6b;
 }
