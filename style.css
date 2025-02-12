@@ -81,6 +81,7 @@ p:last-of-type {
 
   h3 {
     text-transform: capitalize;
+    cursor: pointer;
   }
 }
 
